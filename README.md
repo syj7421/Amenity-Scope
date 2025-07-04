@@ -9,16 +9,16 @@ This project is currently under active development. Core functionality such as a
 ## 🔍 Features (Planned)
 
 - 🗺️ Google Maps-based visualization of nearby schools, transport, shops, etc.
-- 📊 Python-based analysis of property data (e.g., average prices, walkability, demographic summaries)
+- 📊 Python-based analysis and visualisation of property data (e.g., average prices, walkability, demographic summaries)
 - 📈 Data-driven interface to help agents persuade clients with clear visuals and insights
 - 🏡 Designed specifically for real estate use cases
 
 ## 🛠️ Tech Stack
 
 - **Frontend:** React.js  
-- **Backend:** Python (Flask or Node.js planned)  
-- **APIs:** Google Maps API, local property datasets  
-- **Others:** Git, REST
+- **Backend:** Python
+- **Data Analysis:** Python
+- **APIs:** Google Maps API, Victoria Government API 
 
 ## 💡 Motivation
 
